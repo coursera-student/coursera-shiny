@@ -1,6 +1,6 @@
 # Shiny application using Ozone dataset
 
-For a direct access to this Shiny application, click [here]().
+For a direct access to this Shiny application, click [here](https://coursera-student.shinyapps.io/coursera-shiny/).
 
 This README file is the supporting documentation accompagning this Shiny application. It includes three parts: 
 
@@ -49,7 +49,7 @@ This Shiny application displays a scatterplot of the relationship between each o
 
 ### 3. Directives on how to visualize this Shiny application
 
-Option 1: Direct link: click [here](). 
+Option 1: Direct link: click [here](https://coursera-student.shinyapps.io/coursera-shiny/). 
 
 Option 2: Download the `server.R` and `ui.R` files. Open R and set the working directory to be inside the folder that contains both files. Then run the following commands:
 
