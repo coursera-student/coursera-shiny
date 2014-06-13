@@ -25,7 +25,7 @@ shinyUI(fluidPage(
             br(),
             
             p("Full documentation for this project can be found on ", 
-              a("Github", href = ""))
+              a("Github", href = "https://github.com/coursera-student/coursera-shiny"))
         ),
         
         mainPanel(
